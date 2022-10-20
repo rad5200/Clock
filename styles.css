@@ -6,6 +6,7 @@
 
 #clock-section {
   text-align: center;
+  display: inline-block;
 }
 
 #clock {
