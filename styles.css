@@ -4,6 +4,9 @@ body {
   font-size: 25px;
 }
 
+#clock-section {
+ text-align: center;
+}
 #clock {
   font-size: 75px;
   display: inline-block;
