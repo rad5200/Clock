@@ -5,13 +5,17 @@ body {
 }
 
 #clock-section {
- text-align: center;
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ align-items: center;
+ width: 300px;
 }
 #clock {
-  font-size: 75px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  font-size: 2rem;
   color: #00beef;
   background-color: black;
+  line-height: 1;
+  text-align: center;
+  
 }
