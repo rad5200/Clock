@@ -1,17 +1,10 @@
-#section-header {
+body {
   text-align: center;
   font-family: sans-serif;
   font-size: 25px;
 }
 
-#clock-section {
-  text-align: center;
-  display: inline-block;
-}
-
 #clock {
-  text-align: center;
-  font-family: sans-serif;
   font-size: 75px;
   display: inline-block;
   color: #00beef;
