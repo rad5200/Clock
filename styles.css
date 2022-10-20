@@ -4,6 +4,10 @@
   font-size: 25px;
 }
 
+#clock-section {
+  text-align: center;
+}
+
 #clock {
   text-align: center;
   font-family: sans-serif;
