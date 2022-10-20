@@ -9,7 +9,9 @@ body {
 }
 #clock {
   font-size: 75px;
-  display: inline-block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   color: #00beef;
   background-color: black;
 }
